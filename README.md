@@ -105,3 +105,9 @@ COUNT      = floor((T_ACC + Delay_PRE) / PRE_IN)
 ## Related
 
 - [**ARRAY_CTUD**](https://github.com/ChrisMangin/ARRAY_CTUD) - same pattern applied to counters: 1,050 independent up/down counter channels, ~9x smaller than native COUNTER tags
+
+---
+
+## License
+
+MIT - see [LICENSE](LICENSE).
